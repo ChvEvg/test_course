@@ -1,2 +1,2 @@
 # test_course
-homework for testing in python
+homework for ui testing(python selenium)
